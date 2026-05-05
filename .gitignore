@@ -8,6 +8,10 @@ __pycache__/
 # Data
 data/
 
+# ✅ Allow only required datasets
+!data/final_dataset.csv
+!data/processed_dataset.csv
+
 # Models
 models/
 model.pkl
